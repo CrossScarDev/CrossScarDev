@@ -1,6 +1,6 @@
 ## About Me
 Hi I'm an 11 year old kid who loves to code. My favorite things to work on are websites and C++ programming. My projects are a combination of mods/plugins/extensions, forks, and custom projects
-## CommanderGL on Other Platforms
+## CrossScar on Other Platforms
 - Scratch: [@CrossScar](https://scratch.mit.edu/users/CrossScar)
 - Modrinth: [@CommanderGL](https://modrinth.com/user/CrossScarDev)
 - Youtube: [@crossscar-dev](https://www.youtube.com/@crossscar-dev)
